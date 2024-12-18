@@ -18,7 +18,7 @@ A lightweight Windows application for quick rate adjustment with a transparent o
 ## Installation
 
 ### Method 1: Direct Download
-1. Download the latest release ZIP file from the [Releases](link-to-releases) page
+1. Download the latest release ZIP file from the [Releases](https://github.com/Lauzl/MSFS_SRC/releases/tag/v1.0.0) page
 2. Extract the ZIP to your preferred location
 3. Run `SimRateApp.exe`
 
