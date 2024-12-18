@@ -3,8 +3,6 @@ Key Counter for MSFS (simrate)
 
 
 
-# SimRate Controller
-
 A lightweight Windows application for quick rate adjustment with a transparent overlay. Perfect for simulation speed control or any scenario where quick numerical adjustments are needed.
 
 ## Features
