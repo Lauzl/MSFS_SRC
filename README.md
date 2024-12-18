@@ -43,8 +43,8 @@ A lightweight Windows application for quick rate adjustment with a transparent o
    - Configure RESET Key
 4. Press your desired key and click OK to save
 
-###Note: Settings need to be reconfigured each time the application is started.
-
+	<ins>Note: Settings need to be reconfigured each time the application is started. </ins>
+ 
 ### Key Configuration
 - Single key shortcuts
 - Visual confirmation of current key bindings
