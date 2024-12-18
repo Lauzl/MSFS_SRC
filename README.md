@@ -33,10 +33,7 @@ A lightweight Windows application for quick rate adjustment with a transparent o
 
 ## Configuration
 
-### Key Configuration
-- Single key shortcuts
-- Visual confirmation of current key bindings
-- Easy-to-use configuration interface
+
   
 1. Launch SimRateApp.exe
 2. Click on "Settings" in the main window
@@ -46,7 +43,14 @@ A lightweight Windows application for quick rate adjustment with a transparent o
    - Configure RESET Key
 4. Press your desired key and click OK to save
 
-Note: Settings need to be reconfigured each time the application is started.
+####Note: Settings need to be reconfigured each time the application is started.
+
+### Key Configuration
+- Single key shortcuts
+- Visual confirmation of current key bindings
+- Easy-to-use configuration interface
+
+
 
 ## Features in Detail
 
