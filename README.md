@@ -29,6 +29,11 @@ A lightweight Windows application for quick rate adjustment with a transparent o
 4. Build the solution (F6 or Build → Build Solution)
 5. Find the executable in `bin/Release/SimRateApp.exe`
 
+### Key Configuration
+- Single key shortcuts
+- Visual confirmation of current key bindings
+- Easy-to-use configuration interface
+
 ## Configuration
 
 1. Launch SimRateApp.exe
@@ -50,10 +55,7 @@ Note: Settings need to be reconfigured each time the application is started.
 - Automatically positions itself in the top-right corner
 - Click-through functionality (won't interfere with clicking on windows behind it)
 
-### Key Configuration
-- Single key shortcuts
-- Visual confirmation of current key bindings
-- Easy-to-use configuration interface
+
 
 ### Counter Functions
 - Increment value (+1)
@@ -61,11 +63,6 @@ Note: Settings need to be reconfigured each time the application is started.
 - Reset to zero
 - Persistent display of current value
 
-## System Requirements
-
-- Windows 7 or later
-- .NET Framework 4.7.2 or higher
-- Screen resolution: 1024x768 or higher recommended
 
 ## Known Issues
 
