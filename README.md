@@ -29,13 +29,15 @@ A lightweight Windows application for quick rate adjustment with a transparent o
 4. Build the solution (F6 or Build → Build Solution)
 5. Find the executable in `bin/Release/SimRateApp.exe`
 
+
+
+## Configuration
+
 ### Key Configuration
 - Single key shortcuts
 - Visual confirmation of current key bindings
 - Easy-to-use configuration interface
-
-## Configuration
-
+  
 1. Launch SimRateApp.exe
 2. Click on "Settings" in the main window
 3. Choose which action to configure:
